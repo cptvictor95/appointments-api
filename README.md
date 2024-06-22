@@ -1,4 +1,4 @@
-# solid-ts
+# appointments-api
 
 To install dependencies:
 

@@ -1,9 +1,9 @@
 {
-  "name": "solid-ts",
-  "module": "src/index.ts",
+  "name": "appointments-api",
+  "module": "src/server.ts",
   "type": "module",
   "scripts": {
-    "dev": "nodemon ./src/index.ts",
+    "dev": "nodemon ./src/server.ts",
     "build": "tsc",
     "test": "vitest"
   },
